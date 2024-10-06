@@ -1,17 +1,17 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm Suraj Pandey!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
 ## 👨‍💻 About Me:
-I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with [briefly share your story], and since then, I’ve been constantly learning and improving my craft.
+I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
 
-- 🔭 I’m currently working on [Project/Tech Stack]
-- 🌱 I’m learning [Tech Stack or Skillset]
-- 👯 I’m looking to collaborate on [types of projects or areas]
+- 🔭 I’m currently working on **an Ecommerce Website using the MERN stack**.
+- 🌱 I’m learning **Advanced Machine Learning and Deep Learning techniques**.
+- 👯 I’m looking to collaborate on **projects related to full-stack development, machine learning, and image processing**.
 - 🤔 I’m open to feedback and new ideas!
-- 💬 Ask me about [Your Areas of Expertise or Interests]
-- 📫 How to reach me: [Your Contact Info or Email]
-- ⚡ Fun fact: [Unique or fun fact about yourself]
+- 💬 Ask me about **Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions)**.
+- 📫 How to reach me: [surajpandey7493@gmail.com](mailto:surajpandey7493@gmail.com)
+- ⚡ Fun fact: I love tinkering with neural networks and AI in my free time!
 
 ---
 
@@ -29,34 +29,40 @@ I’m a passionate software engineer who loves solving complex problems and buil
 ## 🚀 Projects & Open Source Contributions:
 Here are some of my projects that I’m proud of:
 
-### ⭐ [Project 1](https://github.com/your-username/project1)
-Short description of the project. Highlight the key features, technologies used, and your role in the project.
+### ⭐ [Ecommerce Website](https://github.com/spsurajpandeysp/ecommerce-website)
+Developed a dynamic ecommerce website using the MERN stack with an admin panel, secure payments, order tracking, and more. The site employs Tailwind CSS for responsive design and integrates security measures for a seamless user experience.
 
-### ⭐ [Project 2](https://github.com/your-username/project2)
-Short description of the project. Highlight the key features, technologies used, and your role in the project.
+### ⭐ [Food Recognition System](https://github.com/spsurajpandeysp/food-recognition)
+Built a system using deep learning for real-time food recognition and nutritional analysis. Integrated with Flask, TensorFlow, and OpenCV for model deployment.
+
+### ⭐ [Object Detection System](https://github.com/spsurajpandeysp/object-detection)
+Developed a website for real-time object detection using YOLO and neural networks. The system supports automated car and people counting with a user-friendly interface.
+
+### ⭐ [Canteen Management System](https://github.com/spsurajpandeysp/canteen-management)
+Designed and implemented a GUI application using Java Swing with distinct modes for Admin and Employee. It streamlines operations in a canteen by allowing Admin to manage products and employees, while Employees can place orders and generate bills.
 
 ### 🛠 Open Source Contributions:
-- Contributed to [Open Source Project](https://github.com/example/project) by [feature/fix].
+- Contributed to [Open Source Project](https://github.com/example/project) by improving [feature/fix].
 
 ---
 
 ## 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spsurajpandeysp&show_icons=true&count_private=true&hide=stars&theme=radical)
 
 ### 🔥 GitHub Streaks:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spsurajpandeysp&theme=radical)
 
 ### 📊 Contributions Activity:
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=dracula&bg_color=000000&color=FF6D00&line=FF6D00&point=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spsurajpandeysp&theme=dracula&bg_color=000000&color=FF6D00&line=FF6D00&point=FFFFFF&area=true)
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=spsurajpandeysp&theme=radical&column=7)
 
 ---
 
@@ -71,16 +77,17 @@ Short description of the project. Highlight the key features, technologies used,
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/spsurajpandeysp)
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/your-handle)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to)](https://dev.to/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=firefox)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=firefox)](https://surajpandey.vercel.app)
 
 ---
 
 ## 🏆 Achievements & Certifications:
-- 🏅 [Certification Name](https://cert-link.com)
-- 💡 [Award or Recognition](https://award-link.com)
+- 🏅 Participation in **HackOn with Amazon** - Season 4
+- 🏅 **Java Training Certificate** from IIT Bombay
+- 🏅 **C Programming Course** from Udemy
 
 ---
 
