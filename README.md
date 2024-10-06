@@ -1,6 +1,10 @@
-# Hi there! 👋 I'm Suraj Pandey!
+# Hi there! 👋 I'm Suraj Pandey!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast;Full-Stack+Developer+%7C+Machine+Learning+Fan)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Suraj%20Pandey-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://surajpandey.vercel.app)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpandey7493@gmail.com)
+
 
 ## 👨‍💻 About Me:
 I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
@@ -56,34 +60,6 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 ---
 
-# Hi there! 👋 I'm Suraj Pandey!
-
-![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)
-
-## 👨‍💻 About Me:
-I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
-
-- 🔭 I’m currently working on **an Ecommerce Website using the MERN stack**.
-- 🌱 I’m learning **Advanced Machine Learning and Deep Learning techniques**.
-- 👯 I’m looking to collaborate on **projects related to full-stack development, machine learning, and image processing**.
-- 🤔 I’m open to feedback and new ideas!
-- 💬 Ask me about **Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions)**.
-- 📫 How to reach me: [surajpandey7493@gmail.com](mailto:surajpandey7493@gmail.com)
-- ⚡ Fun fact: I love tinkering with neural networks and AI in my free time!
-
----
-
-## 🛠️ My Toolbox:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
----
-
 ## 🚀 Projects & Open Source Contributions:
 Here are some of my projects that I’m proud of:
 
@@ -129,21 +105,14 @@ Designed and implemented a GUI application using Java Swing with distinct modes 
 
 ---
 
-## ✍️ Latest Blog Posts:
-[![Blog Posts](https://img.shields.io/badge/-My%20Blog-05122A?style=flat&logo=readme)](https://your-blog-url.com)
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://your-blog-url.com/post1)
-- [Post 2 Title](https://your-blog-url.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/spsurajpandeysp)
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/your-handle)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-05122A?style=flat&logo=dev.to)](https://dev.to/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/spsurajpandeysp)
+[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:surajpandey7493@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=firefox)](https://surajpandey.vercel.app)
+📱 **Phone**: 914-905-8210
+
 
 ---
 
@@ -159,13 +128,3 @@ Feel free to leave a ⭐️ on my repositories if you find them useful or intere
 
 ---
 
-### Pro Tips:
-- Use GitHub Actions to auto-update blog posts or repositories.
-- Use these services to generate dynamic stats:
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
-  - [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-  - [LeetCode Stats](https://github.com/JacobLinCool/LeetCode-Stats-Card)
-
-  - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
-  - [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
