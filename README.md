@@ -1,21 +1,25 @@
 # Hi there! 👋 I'm Suraj Pandey!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast;Full-Stack+Developer+%7C+Machine+Learning+Fan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=915&lines=Full-Stack+Developer+skilled+in+MERN+Stack+PHP+and+Django;B.Tech+final+year+student+in+CSE+at+Graphic+Era+Hill+University
+)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Suraj%20Pandey-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://surajpandey.vercel.app)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpandey7493@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Suraj%20Pandey-00A859?style=flat-square&logo=googledrive&logoColor=white)](https://surajpandey.vercel.app/resume.pdf)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpandey7493@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spsurajpandeysp)
+
 
 
 ## 👨‍💻 About Me:
 I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
 
-- 🔭 I’m currently working on **an Ecommerce Website using the MERN stack**.
-- 🌱 I’m learning **Advanced Machine Learning and Deep Learning techniques**.
-- 👯 I’m looking to collaborate on **projects related to full-stack development, machine learning, and image processing**.
+- 🔭 I am a B.Tech final year student at Graphic Era Hill University.
+- 👯 I’m looking to collaborate on projects related to full-stack development and image processing.
 - 🤔 I’m open to feedback and new ideas!
-- 💬 Ask me about **Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions)**.
-- 📫 How to reach me: [surajpandey7493@gmail.com](mailto:surajpandey7493@gmail.com)
-- ⚡ Fun fact: I love tinkering with neural networks and AI in my free time!
+- 💬 Ask me about Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions).
+- 📫 How to reach me: surajpandey7493@gmail.com
+- ⚡ Fun fact: I love tinkering with technology in my free time!
+
 
 ---
 
@@ -60,23 +64,38 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 ---
 
-## 🚀 Projects & Open Source Contributions:
-Here are some of my projects that I’m proud of:
+## 🚀 Projects & Contributions:
 
-### ⭐ [Ecommerce Website](https://github.com/spsurajpandeysp/ecommerce-website)
-Developed a dynamic ecommerce website using the MERN stack with an admin panel, secure payments, order tracking, and more. The site employs Tailwind CSS for responsive design and integrates security measures for a seamless user experience.
+### 📦 Ecommerce Website | Frontend, Backend (June 2024)
+- **Technologies Used:** React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, JWT
+- **Description:** Developed a dynamic ecommerce website using the MERN stack with a comprehensive Admin Panel for managing products, users, and orders. 
+    - Customer features include user registration, profile management, secure payments, order tracking, and cart management.
+    - Tailwind CSS was used for responsive design, and the project incorporates advanced security measures and performance optimizations for a seamless user experience.
 
-### ⭐ [Food Recognition System](https://github.com/spsurajpandeysp/food-recognition)
-Built a system using deep learning for real-time food recognition and nutritional analysis. Integrated with Flask, TensorFlow, and OpenCV for model deployment.
+---
 
-### ⭐ [Object Detection System](https://github.com/spsurajpandeysp/object-detection)
-Developed a website for real-time object detection using YOLO and neural networks. The system supports automated car and people counting with a user-friendly interface.
+### 🍔 Food Recognition System | Frontend, Backend (January 2024)
+- **Technologies Used:** React.js, JavaScript, Node.js, Express.js, MongoDB, Bootstrap, Flask, TensorFlow, Keras, OpenCV
+- **Description:** Built a Food Recognition System using deep learning and image analysis to identify food items and provide nutritional details (e.g., calories, vitamins, protein).
+    - Includes multiple modes for real-time analysis (Camera Mode), food name searches (Name-Based Mode), and image uploads (Image Upload Mode).
+    - Advanced recognition models and preprocessing techniques were used to create a seamless experience.
 
-### ⭐ [Canteen Management System](https://github.com/spsurajpandeysp/canteen-management)
-Designed and implemented a GUI application using Java Swing with distinct modes for Admin and Employee. It streamlines operations in a canteen by allowing Admin to manage products and employees, while Employees can place orders and generate bills.
+---
 
-### 🛠 Open Source Contributions:
-- Contributed to [Open Source Project](https://github.com/example/project) by improving [feature/fix].
+### 🚗 Object Detection System | Frontend, Backend (July 2023)
+- **Technologies Used:** HTML, CSS, Python, Django, SQL, TensorFlow, OpenCV, YOLO
+- **Description:** Developed a real-time object detection website using YOLO and neural networks, with features like automated car counting and people counting.
+    - The system integrates user-friendly forms for Contact Us, Complaints, and Feedback, enhancing user interaction.
+    - Back-end built with Django, database management handled with SQL, and image processing using TensorFlow and OpenCV for a comprehensive solution.
+
+---
+
+### 🍽️ Canteen Management System | GUI Application (January 2023)
+- **Technologies Used:** Java, JDBC, MySQL, Swing
+- **Description:** Created a GUI-based Canteen Management System with distinct modes for Admin and Employee.
+    - Admin mode allows for managing product details (add, delete, modify) and handling employees (add, remove).
+    - Employee mode allows order placement and bill generation, streamlining canteen operations with an intuitive interface.
+
 
 ---
 
