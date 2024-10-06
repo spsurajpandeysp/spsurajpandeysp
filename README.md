@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Suraj%20Pandey-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://surajpandey.vercel.app)  
-[![Resume](https://img.shields.io/badge/Resume-Suraj%20Pandey-00A859?style=flat-square&logo=googledrive&logoColor=white)](https://surajpandey.vercel.app/resume.pdf)  
+[![Resume](https://img.shields.io/badge/Resume-Suraj%20Pandey-00A859?style=flat-square&logo=googledrive&logoColor=white)]([https://surajpandey.vercel.app/resume.pdf](https://drive.google.com/file/d/10pp8YuP3gk_5x6AH8YF1VTZOg7cJiooT/view))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpandey7493@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spsurajpandeysp)
 
@@ -72,29 +72,67 @@ I’m a passionate software engineer who loves solving complex problems and buil
     - Customer features include user registration, profile management, secure payments, order tracking, and cart management.
     - Tailwind CSS was used for responsive design, and the project incorporates advanced security measures and performance optimizations for a seamless user experience.
 
----
+<p align="center">
+  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Ecommerce%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Click+to+explore+the+repository!;Don't+forget+to+leave+a+star+⭐">
+</p>
 
 ### 🍔 Food Recognition System | Frontend, Backend (January 2024)
 - **Technologies Used:** React.js, JavaScript, Node.js, Express.js, MongoDB, Bootstrap, Flask, TensorFlow, Keras, OpenCV
 - **Description:** Built a Food Recognition System using deep learning and image analysis to identify food items and provide nutritional details (e.g., calories, vitamins, protein).
     - Includes multiple modes for real-time analysis (Camera Mode), food name searches (Name-Based Mode), and image uploads (Image Upload Mode).
     - Advanced recognition models and preprocessing techniques were used to create a seamless experience.
+      
+<p align="center">
+  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Food%20Reconition%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Click+to+explore+the+repository!;Don't+forget+to+leave+a+star+⭐">
+</p>
 
 ### 🚗 Object Detection System | Frontend, Backend (July 2023)
 - **Technologies Used:** HTML, CSS, Python, Django, SQL, TensorFlow, OpenCV, YOLO
 - **Description:** Developed a real-time object detection website using YOLO and neural networks, with features like automated car counting and people counting.
     - The system integrates user-friendly forms for Contact Us, Complaints, and Feedback, enhancing user interaction.
     - Back-end built with Django, database management handled with SQL, and image processing using TensorFlow and OpenCV for a comprehensive solution.
+  
+<p align="center">
+  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Object%20Detection%20System&color=blue&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Click+to+explore+the+repository!;Don't+forget+to+leave+a+star+⭐">
+</p>
 
 ### 🍽️ Canteen Management System | GUI Application (January 2023)
 - **Technologies Used:** Java, JDBC, MySQL, Swing
 - **Description:** Created a GUI-based Canteen Management System with distinct modes for Admin and Employee.
     - Admin mode allows for managing product details (add, delete, modify) and handling employees (add, remove).
     - Employee mode allows order placement and bill generation, streamlining canteen operations with an intuitive interface.
+  
+<p align="center">
+  <a href="https://github.com/spsurajpandeysp/Canteen-Management-System-GUI-Application" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Canteen%20Management%20System&color=blue&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Click+to+explore+the+repository!;Don't+forget+to+leave+a+star+⭐">
+</p>
+
+
+
+
 
 
 ---
