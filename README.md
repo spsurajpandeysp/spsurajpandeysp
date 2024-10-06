@@ -16,6 +16,64 @@ I’m a passionate software engineer who loves solving complex problems and buil
 ---
 
 ## 🛠️ My Toolbox:
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
+### Frameworks:
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+
+### Technologies:
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![JDBC](https://img.shields.io/badge/-JDBC-05122A?style=flat&logo=java)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+### Developer Tools:
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-05122A?style=flat&logo=google-colab)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
+
+---
+
+# Hi there! 👋 I'm Suraj Pandey!
+
+![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)
+
+## 👨‍💻 About Me:
+I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
+
+- 🔭 I’m currently working on **an Ecommerce Website using the MERN stack**.
+- 🌱 I’m learning **Advanced Machine Learning and Deep Learning techniques**.
+- 👯 I’m looking to collaborate on **projects related to full-stack development, machine learning, and image processing**.
+- 🤔 I’m open to feedback and new ideas!
+- 💬 Ask me about **Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions)**.
+- 📫 How to reach me: [surajpandey7493@gmail.com](mailto:surajpandey7493@gmail.com)
+- ⚡ Fun fact: I love tinkering with neural networks and AI in my free time!
+
+---
+
+## 🛠️ My Toolbox:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -46,7 +104,7 @@ Designed and implemented a GUI application using Java Swing with distinct modes 
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub & LeetCode Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spsurajpandeysp&show_icons=true&count_private=true&hide=stars&theme=radical)
 
@@ -57,6 +115,11 @@ Designed and implemented a GUI application using Java Swing with distinct modes 
 ### 📊 Contributions Activity:
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spsurajpandeysp&theme=dracula&bg_color=000000&color=FF6D00&line=FF6D00&point=FFFFFF&area=true)
+
+---
+
+## 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/spsurajpandeysp?theme=dark&font=Abel&ext=activity)
 
 ---
 
@@ -100,5 +163,9 @@ Feel free to leave a ⭐️ on my repositories if you find them useful or intere
 - Use GitHub Actions to auto-update blog posts or repositories.
 - Use these services to generate dynamic stats:
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
+  - [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  - [LeetCode Stats](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+
   - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
   - [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
