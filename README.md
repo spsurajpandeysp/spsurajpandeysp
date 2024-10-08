@@ -89,7 +89,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
     - Advanced recognition models and preprocessing techniques were used to create a seamless experience.
       
 <p align="center">
-  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+  <a href="[https://github.com/spsurajpandesp/cms](https://github.com/spsurajpandeysp/Food-Recognition-Website/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Food%20Reconition%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -145,9 +145,6 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spsurajpandeysp&theme=radical)
 
-### 📊 Contributions Activity:
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=spsurajpandeysp&theme=dracula&bg_color=000000&color=FF6D00&line=FF6D00&point=FFFFFF&area=true)
 
 ---
 
