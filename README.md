@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Suraj%20Pandey-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://surajpandey.vercel.app)  
-[![Resume](https://img.shields.io/badge/Resume-Suraj%20Pandey-00A859?style=flat-square&logo=googledrive&logoColor=white)]([https://surajpandey.vercel.app/resume.pdf](https://drive.google.com/file/d/10pp8YuP3gk_5x6AH8YF1VTZOg7cJiooT/view))  
+[![Resume](https://img.shields.io/badge/Resume-Suraj%20Pandey-00A859?style=flat-square&logo=googledrive&logoColor=white)](https://surajpandey.vercel.app/resume.pdf](https://drive.google.com/file/d/10pp8YuP3gk_5x6AH8YF1VTZOg7cJiooT/view)) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpandey7493@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spsurajpandeysp)
 
@@ -24,6 +24,8 @@ I’m a passionate software engineer who loves solving complex problems and buil
 ---
 
 ## 🛠️ My Toolbox:
+
+### Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
