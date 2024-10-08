@@ -167,7 +167,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/spsurajpandeysp)
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:surajpandey7493@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=firefox)](https://surajpandey.vercel.app)
-📱 **Phone**: 914-905-8210
+
 
 
 ---
