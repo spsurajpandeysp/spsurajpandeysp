@@ -75,7 +75,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
     - Tailwind CSS was used for responsive design, and the project incorporates advanced security measures and performance optimizations for a seamless user experience.
 
 <p align="center">
-  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+  <a href="https://github.com/spsurajpandeysp/Online-Shopping-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Ecommerce%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -91,7 +91,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
     - Advanced recognition models and preprocessing techniques were used to create a seamless experience.
       
 <p align="center">
-  <a href="https://github.com/spsurajpandesp/cms](https://github.com/spsurajpandeysp/Food-Recognition-Website/" target="_blank">
+  <a href="https://github.com/spsurajpandeysp/Food-Recognition-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Food%20Reconition%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -107,7 +107,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
     - Back-end built with Django, database management handled with SQL, and image processing using TensorFlow and OpenCV for a comprehensive solution.
   
 <p align="center">
-  <a href="https://github.com/spsurajpandesp/cms" target="_blank">
+  <a href="https://github.com/spsurajpandeysp/Object-Detection-System" target="_blank">
     <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Object%20Detection%20System&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
