@@ -68,9 +68,9 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 ## 🚀 Projects & Contributions:
 
-### 📦 Ecommerce Website | Frontend, Backend (June 2024)
+### 📦 Online Shopping Website | Frontend, Backend (June 2024)
 - **Technologies Used:** React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, JWT
-- **Description:** Developed a dynamic ecommerce website using the MERN stack with a comprehensive Admin Panel for managing products, users, and orders. 
+- **Description:** Developed a dynamic Online Shopping website using the MERN stack with a comprehensive Admin Panel for managing products, users, and orders. 
     - Customer features include user registration, profile management, secure payments, order tracking, and cart management.
     - Tailwind CSS was used for responsive design, and the project incorporates advanced security measures and performance optimizations for a seamless user experience.
 
