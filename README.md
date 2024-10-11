@@ -76,7 +76,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 <p align="center">
   <a href="https://github.com/spsurajpandeysp/Online-Shopping-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Ecommerce%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Online%20Shopping%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -92,7 +92,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
       
 <p align="center">
   <a href="https://github.com/spsurajpandeysp/Food-Recognition-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Food%20Reconition%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Explore%20Food%20Recognition%20Website&color=blue&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
