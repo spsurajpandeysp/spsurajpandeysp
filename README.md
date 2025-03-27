@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Suraj Pandey!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=915&lines=Full-Stack+Developer+skilled+in+MERN+Stack+PHP+and+Django;B.Tech+final+year+student+in+CSE+at+Graphic+Era+Hill+University
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=915&lines=SaaS+Developer+|+Freelancer+|+Full-Stack+Developer;MERN+Stack+|+Django+|+React+Native+|+GraphQL
 )](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
