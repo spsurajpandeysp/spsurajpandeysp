@@ -13,10 +13,10 @@
 ## 👨‍💻 About Me:
 I’m a passionate software engineer who loves solving complex problems and building innovative solutions. My journey in tech started with my Bachelor's in Computer Science & Engineering, and since then, I’ve been constantly learning and improving my craft.
 
-- 🔭 I am a B.Tech final year student at Graphic Era Hill University.
+- 🔭 SaaS Developer, building scalable and efficient software solutions.
 - 👯 I’m looking to collaborate on projects related to full-stack development and image processing.
 - 🤔 I’m open to feedback and new ideas!
-- 💬 Ask me about Python, JavaScript, MERN Stack, and problem-solving (300+ LeetCode questions).
+- 💬 Ask me about Python, JavaScript, MERN Stack, GraphQL, and problem-solving (400+ LeetCode questions).
 - 📫 How to reach me: surajpandey7493@gmail.com
 - ⚡ Fun fact: I love tinkering with technology in my free time!
 
