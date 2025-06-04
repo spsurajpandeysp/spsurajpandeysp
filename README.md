@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Suraj Pandey!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=915&lines=SaaS+Developer+|+Freelancer+|+Full-Stack+Developer;MERN+Stack+|+Django+|+React+Native+|+GraphQL
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&background=000000&width=915&lines=SaaS+Developer+|+Freelancer+|+Full-Stack+Developer;MERN+Stack+|+Spring+Boot+|+React+Native+|+GraphQL
 )](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spsurajpandeysp&label=PROFILE+VIEWS&style=flat-square&color=blue)  
@@ -16,7 +16,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
 - 🔭 SaaS Developer, building scalable and efficient software solutions.
 - 👯 I’m looking to collaborate on projects related to full-stack development and image processing.
 - 🤔 I’m open to feedback and new ideas!
-- 💬 Ask me about Python, JavaScript, MERN Stack, GraphQL, and problem-solving (400+ LeetCode questions).
+- 💬 Ask me about JavaScript, MERN Stack, Java, Spring Boot, GraphQL, and problem-solving (400+ LeetCode questions).
 - 📫 How to reach me: surajpandey7493@gmail.com
 - ⚡ Fun fact: I love tinkering with technology in my free time!
 
@@ -39,9 +39,11 @@ I’m a passionate software engineer who loves solving complex problems and buil
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-05122A?style=flat&logo=spring)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+
 
 ### Technologies:
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
