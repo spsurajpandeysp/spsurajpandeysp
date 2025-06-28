@@ -68,10 +68,6 @@ I’m a passionate software engineer who loves solving complex problems and buil
 
 ---
 
-## 📈 GitHub & LeetCode Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spsurajpandeysp&show_icons=true&count_private=true&hide=stars&theme=radical)
-
 ### 🔥 GitHub Streaks:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spsurajpandeysp&theme=radical)
