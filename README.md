@@ -76,7 +76,7 @@ I’m a passionate software engineer who loves solving complex problems and buil
 ---
 
 ## 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/spsurajpandeysp?theme=dark&font=Abel&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/surajpandeysp?theme=dark&font=Abel&ext=activity)
 
 ---
 
